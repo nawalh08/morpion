@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.flex{
+    display: flex;
+
+}
+.case{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+}
